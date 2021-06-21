@@ -28,7 +28,7 @@ Using three backticks you can highlight code blocks:
 
 ```python
 def foo(x):
-    if x > 3:
+    if x > 300:
         y = 4
         print(x+y)
 ```
