@@ -48,7 +48,7 @@ Favorite Links:
 |------|-----|------
 |Bob|32|B+
 |Sue|28|A-
-|Tim|30|C+
+|Tim|30|B+
 
 
 
